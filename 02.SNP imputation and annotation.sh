@@ -3,7 +3,7 @@
 ## Northwest A&F University
 ## This script briefly summarizes the codes in the analysis process, for reference only.
 
-## SNP imputation
+## SNP imputation (https://pcingola.github.io/SnpEff/se_inputoutput/)
 java -jar beagle.18May20.d20.jar gt=snp.vcf out=snp.impute.vcf nthreads=8
 ## SNP Annotation
 java -jar snpEff.jar build -gff3 -v wheat

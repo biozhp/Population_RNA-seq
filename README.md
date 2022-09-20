@@ -1,1 +1,1 @@
-# The code used for population RNA-seq data analysis
+# The codes used for population RNA-seq data analysis
